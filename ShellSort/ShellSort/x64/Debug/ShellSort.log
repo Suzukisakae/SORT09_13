@@ -1,0 +1,3 @@
+﻿  ShellSort.cpp
+E:\SU_PHAM_KI_THUAT\HOC_KI_1_NAM_HAI\CTDL_va_GT\PROJECT\SORT_09_13\ShellSort\ShellSort\ShellSort.cpp(42,36): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  ShellSort.vcxproj -> E:\SU_PHAM_KI_THUAT\HOC_KI_1_NAM_HAI\CTDL_va_GT\PROJECT\SORT_09_13\ShellSort\x64\Debug\ShellSort.exe
